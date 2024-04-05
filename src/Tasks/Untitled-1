@@ -1,0 +1,29 @@
+Système de sous-tâches :
+
+-Modifiez la classe Task pour inclure une liste de sous-tâches.
+-Modifiez la logique de lecture et d'écriture JSON dans la classe FileManager pour gérer les sous-tâches.
+-Modifiez l'interface utilisateur pour permettre à l'utilisateur d'ajouter et de visualiser les sous-tâches.
+
+Description de la tâche :
+
+-Modifiez la classe Task pour inclure une description de la tâche.
+-Mettez à jour la logique de lecture et d'écriture JSON dans la classe FileManager.
+-Modifiez l'interface utilisateur pour permettre à l'utilisateur de saisir une description lorsqu'il ajoute une tâche.
+
+Système de difficulté :
+
+-Modifiez la classe Task pour inclure un niveau de difficulté.
+-Mettez à jour la logique de lecture et d'écriture JSON dans la classe FileManager.
+-Modifiez l'interface utilisateur pour permettre à l'utilisateur de définir le niveau de difficulté lorsqu'il ajoute une tâche.
+
+Système de deadline :
+
+-Modifiez la classe Task pour inclure une date limite.
+-Ajoutez une méthode dans la classe TaskManager pour calculer le niveau de difficulté en fonction de la date limite.
+-Modifiez l'interface utilisateur pour permettre à l'utilisateur de définir une date limite lorsqu'il ajoute une tâche.
+
+Système de transofmation to text :
+
+-
+
+Systeme de recherche organise :
